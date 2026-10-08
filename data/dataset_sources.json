@@ -1,0 +1,5 @@
+[
+  {"name":"Android 10 Cellebrite Extraction","source":"Digital Corpora / NIST CFReDS","year":2020,"url":"https://cfreds.nist.gov/all/","purpose":"Android forensic extraction and artifact parsing"},
+  {"name":"Android 10 Image","source":"Digital Corpora / Joshua Hickman","year":2020,"url":"https://downloads.digitalcorpora.org/corpora/mobile/android_10/Android10-ImageCreation.pdf","purpose":"Google Pixel 3 Android 10 forensic image with Cellebrite and non-Cellebrite extraction"},
+  {"name":"Digital-Forensics v1.0 UMAM-DF Dataset","source":"Ashok Kumar Mohan / TCCS-AMRITA; CFReDS/GitHub","year":2021,"url":"https://github.com/Amrita-TIFAC-Cyber/Digital-Forensics","purpose":"Multi-source metadata-forensics experiments including mobile, social media, browser, GPS and messaging artifacts"}
+]

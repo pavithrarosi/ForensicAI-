@@ -1,0 +1,1110 @@
+{
+  "users": [
+    {
+      "user_id": "USR-C48F02F52850",
+      "username": "pavi",
+      "password_hash": "Q8YPT0MNoJ43CuUiVbiMRw==$MrlGCqce62R6EUoiMcYL+c1BTcRogc/FPVvs+krUbHE="
+    }
+  ],
+  "sessions": [
+    {
+      "token": "HUa28CA7SccYN3RZfFuZcli0ttvBo3nLx9niTocOkxw",
+      "user_id": "USR-C48F02F52850"
+    }
+  ],
+  "cases": [
+    {
+      "case_id": "CASE-972EB022D633",
+      "name": "data invest",
+      "description": "",
+      "examiner": "banu",
+      "investigation_date": "2026-10-07",
+      "owner": "USR-C48F02F52850",
+      "created_at": "2026-10-07T20:45:28"
+    }
+  ],
+  "reports": [
+    {
+      "report_id": "RPT-4D5943FFFE",
+      "case_id": "CASE-972EB022D633",
+      "filename": "Forensic Mobile Extraction Report.pdf",
+      "sha256": "e19689e402b19fc6fc79e75b228444cd4ba46a3f5b1fdb6a8e515f1de60630e6",
+      "uploaded_at": "2026-10-07T20:48:56",
+      "status": "processed",
+      "pages": 2,
+      "metadata": {}
+    }
+  ],
+  "records": [
+    {
+      "record_id": "R00001",
+      "type": "other",
+      "timestamp": "",
+      "summary": "DIGITAL FORENSICS MOBILE",
+      "raw": "DIGITAL FORENSICS MOBILE",
+      "case_id": "CASE-972EB022D633",
+      "report_id": "RPT-4D5943FFFE"
+    },
+    {
+      "record_id": "R00002",
+      "type": "other",
+      "timestamp": "",
+      "summary": "EXTRACTION REPORT",
+      "raw": "EXTRACTION REPORT",
+      "case_id": "CASE-972EB022D633",
+      "report_id": "RPT-4D5943FFFE"
+    },
+    {
+      "record_id": "R00003",
+      "type": "other",
+      "timestamp": "",
+      "summary": "UFDR Extraction & Technical Analysis Summary",
+      "raw": "UFDR Extraction & Technical Analysis Summary",
+      "case_id": "CASE-972EB022D633",
+      "report_id": "RPT-4D5943FFFE"
+    },
+    {
+      "record_id": "R00004",
+      "type": "other",
+      "timestamp": "",
+      "summary": "CONFIDENTIAL / LAW",
+      "raw": "CONFIDENTIAL / LAW",
+      "case_id": "CASE-972EB022D633",
+      "report_id": "RPT-4D5943FFFE"
+    },
+    {
+      "record_id": "R00005",
+      "type": "other",
+      "timestamp": "",
+      "summary": "ENFORCEMENT ONLY",
+      "raw": "ENFORCEMENT ONLY",
+      "case_id": "CASE-972EB022D633",
+      "report_id": "RPT-4D5943FFFE"
+    },
+    {
+      "record_id": "R00006",
+      "type": "other",
+      "timestamp": "",
+      "summary": "CASE & ADMINISTRATIVE METADATA",
+      "raw": "CASE & ADMINISTRATIVE METADATA",
+      "case_id": "CASE-972EB022D633",
+      "report_id": "RPT-4D5943FFFE"
+    },
+    {
+      "record_id": "R00007",
+      "type": "other",
+      "timestamp": "",
+      "summary": "Case Reference CR-2026-0891-DF",
+      "raw": "Case Reference CR-2026-0891-DF",
+      "case_id": "CASE-972EB022D633",
+      "report_id": "RPT-4D5943FFFE"
+    },
+    {
+      "record_id": "R00008",
+      "type": "other",
+      "timestamp": "",
+      "summary": "Evidence Item ID EX-01 (Target Phone)",
+      "raw": "Evidence Item ID EX-01 (Target Phone)",
+      "case_id": "CASE-972EB022D633",
+      "report_id": "RPT-4D5943FFFE"
+    },
+    {
+      "record_id": "R00009",
+      "type": "other",
+      "timestamp": "",
+      "summary": "Agency Cyber Crime Investigation",
+      "raw": "Agency Cyber Crime Investigation",
+      "case_id": "CASE-972EB022D633",
+      "report_id": "RPT-4D5943FFFE"
+    },
+    {
+      "record_id": "R00010",
+      "type": "other",
+      "timestamp": "",
+      "summary": "Unit",
+      "raw": "Unit",
+      "case_id": "CASE-972EB022D633",
+      "report_id": "RPT-4D5943FFFE"
+    },
+    {
+      "record_id": "R00011",
+      "type": "other",
+      "timestamp": "",
+      "summary": "Lead Examiner Det. A. Vance, CCME, CCE",
+      "raw": "Lead Examiner Det. A. Vance, CCME, CCE",
+      "case_id": "CASE-972EB022D633",
+      "report_id": "RPT-4D5943FFFE"
+    },
+    {
+      "record_id": "R00012",
+      "type": "other",
+      "timestamp": "",
+      "summary": "Requesting",
+      "raw": "Requesting",
+      "case_id": "CASE-972EB022D633",
+      "report_id": "RPT-4D5943FFFE"
+    },
+    {
+      "record_id": "R00013",
+      "type": "other",
+      "timestamp": "",
+      "summary": "Oﬃcer Inv. M. Sterling (#4410)",
+      "raw": "Oﬃcer Inv. M. Sterling (#4410)",
+      "case_id": "CASE-972EB022D633",
+      "report_id": "RPT-4D5943FFFE"
+    },
+    {
+      "record_id": "R00014",
+      "type": "other",
+      "timestamp": "",
+      "summary": "DEVICE & EXTRACTION CONTEXT",
+      "raw": "DEVICE & EXTRACTION CONTEXT",
+      "case_id": "CASE-972EB022D633",
+      "report_id": "RPT-4D5943FFFE"
+    },
+    {
+      "record_id": "R00015",
+      "type": "other",
+      "timestamp": "",
+      "summary": "Target Hardware Apple iPhone 14 Pro (A2890)",
+      "raw": "Target Hardware Apple iPhone 14 Pro (A2890)",
+      "case_id": "CASE-972EB022D633",
+      "report_id": "RPT-4D5943FFFE"
+    },
+    {
+      "record_id": "R00016",
+      "type": "application",
+      "timestamp": "",
+      "summary": "OS Version iOS 17.5.1 (Build 21F90)",
+      "raw": "OS Version iOS 17.5.1 (Build 21F90)",
+      "case_id": "CASE-972EB022D633",
+      "report_id": "RPT-4D5943FFFE"
+    },
+    {
+      "record_id": "R00017",
+      "type": "other",
+      "timestamp": "",
+      "summary": "IMEI / Serial 35 692110 482019 3 /",
+      "raw": "IMEI / Serial 35 692110 482019 3 /",
+      "case_id": "CASE-972EB022D633",
+      "report_id": "RPT-4D5943FFFE"
+    },
+    {
+      "record_id": "R00018",
+      "type": "other",
+      "timestamp": "",
+      "summary": "DNXQ9081K1LL",
+      "raw": "DNXQ9081K1LL",
+      "case_id": "CASE-972EB022D633",
+      "report_id": "RPT-4D5943FFFE"
+    },
+    {
+      "record_id": "R00019",
+      "type": "other",
+      "timestamp": "",
+      "summary": "Extraction",
+      "raw": "Extraction",
+      "case_id": "CASE-972EB022D633",
+      "report_id": "RPT-4D5943FFFE"
+    },
+    {
+      "record_id": "R00020",
+      "type": "other",
+      "timestamp": "",
+      "summary": "Method",
+      "raw": "Method",
+      "case_id": "CASE-972EB022D633",
+      "report_id": "RPT-4D5943FFFE"
+    },
+    {
+      "record_id": "R00021",
+      "type": "other",
+      "timestamp": "",
+      "summary": "Full File System (Advanced",
+      "raw": "Full File System (Advanced",
+      "case_id": "CASE-972EB022D633",
+      "report_id": "RPT-4D5943FFFE"
+    },
+    {
+      "record_id": "R00022",
+      "type": "other",
+      "timestamp": "",
+      "summary": "Logical)",
+      "raw": "Logical)",
+      "case_id": "CASE-972EB022D633",
+      "report_id": "RPT-4D5943FFFE"
+    },
+    {
+      "record_id": "R00023",
+      "type": "other",
+      "timestamp": "",
+      "summary": "UFDR Source",
+      "raw": "UFDR Source",
+      "case_id": "CASE-972EB022D633",
+      "report_id": "RPT-4D5943FFFE"
+    },
+    {
+      "record_id": "R00024",
+      "type": "other",
+      "timestamp": "",
+      "summary": "File iPhone14Pro_EX01.ufdr",
+      "raw": "File iPhone14Pro_EX01.ufdr",
+      "case_id": "CASE-972EB022D633",
+      "report_id": "RPT-4D5943FFFE"
+    },
+    {
+      "record_id": "R00025",
+      "type": "other",
+      "timestamp": "",
+      "summary": "1. EXTRACTION OVERVIEW & DATA VOLUME",
+      "raw": "1. EXTRACTION OVERVIEW & DATA VOLUME",
+      "case_id": "CASE-972EB022D633",
+      "report_id": "RPT-4D5943FFFE"
+    },
+    {
+      "record_id": "R00026",
+      "type": "other",
+      "timestamp": "",
+      "summary": "3,812",
+      "raw": "3,812",
+      "case_id": "CASE-972EB022D633",
+      "report_id": "RPT-4D5943FFFE"
+    },
+    {
+      "record_id": "R00027",
+      "type": "other",
+      "timestamp": "",
+      "summary": "TOTAL MESSAGES",
+      "raw": "TOTAL MESSAGES",
+      "case_id": "CASE-972EB022D633",
+      "report_id": "RPT-4D5943FFFE"
+    },
+    {
+      "record_id": "R00028",
+      "type": "other",
+      "timestamp": "",
+      "summary": "142",
+      "raw": "142",
+      "case_id": "CASE-972EB022D633",
+      "report_id": "RPT-4D5943FFFE"
+    },
+    {
+      "record_id": "R00029",
+      "type": "call",
+      "timestamp": "",
+      "summary": "CALL LOGS",
+      "raw": "CALL LOGS",
+      "case_id": "CASE-972EB022D633",
+      "report_id": "RPT-4D5943FFFE"
+    },
+    {
+      "record_id": "R00030",
+      "type": "other",
+      "timestamp": "",
+      "summary": "1,240",
+      "raw": "1,240",
+      "case_id": "CASE-972EB022D633",
+      "report_id": "RPT-4D5943FFFE"
+    },
+    {
+      "record_id": "R00031",
+      "type": "other",
+      "timestamp": "",
+      "summary": "MEDIA FILES",
+      "raw": "MEDIA FILES",
+      "case_id": "CASE-972EB022D633",
+      "report_id": "RPT-4D5943FFFE"
+    },
+    {
+      "record_id": "R00032",
+      "type": "other",
+      "timestamp": "",
+      "summary": "412",
+      "raw": "412",
+      "case_id": "CASE-972EB022D633",
+      "report_id": "RPT-4D5943FFFE"
+    },
+    {
+      "record_id": "R00033",
+      "type": "location",
+      "timestamp": "",
+      "summary": "LOCATION POINTS",
+      "raw": "LOCATION POINTS",
+      "case_id": "CASE-972EB022D633",
+      "report_id": "RPT-4D5943FFFE"
+    },
+    {
+      "record_id": "R00034",
+      "type": "other",
+      "timestamp": "",
+      "summary": "EXTRACTED COMMUNICATION ARTIFACT DISTRIBUTION",
+      "raw": "EXTRACTED COMMUNICATION ARTIFACT DISTRIBUTION",
+      "case_id": "CASE-972EB022D633",
+      "report_id": "RPT-4D5943FFFE"
+    },
+    {
+      "record_id": "R00035",
+      "type": "other",
+      "timestamp": "",
+      "summary": "WhatsApp",
+      "raw": "WhatsApp",
+      "case_id": "CASE-972EB022D633",
+      "report_id": "RPT-4D5943FFFE"
+    },
+    {
+      "record_id": "R00036",
+      "type": "other",
+      "timestamp": "",
+      "summary": "iMessage",
+      "raw": "iMessage",
+      "case_id": "CASE-972EB022D633",
+      "report_id": "RPT-4D5943FFFE"
+    },
+    {
+      "record_id": "R00037",
+      "type": "other",
+      "timestamp": "",
+      "summary": "SMS Signal",
+      "raw": "SMS Signal",
+      "case_id": "CASE-972EB022D633",
+      "report_id": "RPT-4D5943FFFE"
+    },
+    {
+      "record_id": "R00038",
+      "type": "other",
+      "timestamp": "",
+      "summary": "System Logs",
+      "raw": "System Logs",
+      "case_id": "CASE-972EB022D633",
+      "report_id": "RPT-4D5943FFFE"
+    },
+    {
+      "record_id": "R00039",
+      "type": "other",
+      "timestamp": "",
+      "summary": "2. FORENSIC INTEGRITY & CRYPTOGRAPHIC VERIFICATION",
+      "raw": "2. FORENSIC INTEGRITY & CRYPTOGRAPHIC VERIFICATION",
+      "case_id": "CASE-972EB022D633",
+      "report_id": "RPT-4D5943FFFE"
+    },
+    {
+      "record_id": "R00040",
+      "type": "other",
+      "timestamp": "",
+      "summary": "The container ﬁle was parsed using Cellebrite Physical Analyzer v7.68. Integrity hashes were computed immediately upon",
+      "raw": "The container ﬁle was parsed using Cellebrite Physical Analyzer v7.68. Integrity hashes were computed immediately upon",
+      "case_id": "CASE-972EB022D633",
+      "report_id": "RPT-4D5943FFFE"
+    },
+    {
+      "record_id": "R00041",
+      "type": "other",
+      "timestamp": "",
+      "summary": "extraction completion and veriﬁed prior to parsing.",
+      "raw": "extraction completion and veriﬁed prior to parsing.",
+      "case_id": "CASE-972EB022D633",
+      "report_id": "RPT-4D5943FFFE"
+    },
+    {
+      "record_id": "R00042",
+      "type": "other",
+      "timestamp": "",
+      "summary": "Container Object Algorithm Cryptographic Hash Value Status",
+      "raw": "Container Object Algorithm Cryptographic Hash Value Status",
+      "case_id": "CASE-972EB022D633",
+      "report_id": "RPT-4D5943FFFE"
+    },
+    {
+      "record_id": "R00043",
+      "type": "other",
+      "timestamp": "",
+      "summary": "iPhone14Pro_EX01.u",
+      "raw": "iPhone14Pro_EX01.u",
+      "case_id": "CASE-972EB022D633",
+      "report_id": "RPT-4D5943FFFE"
+    },
+    {
+      "record_id": "R00044",
+      "type": "other",
+      "timestamp": "",
+      "summary": "fdr SHA-256",
+      "raw": "fdr SHA-256",
+      "case_id": "CASE-972EB022D633",
+      "report_id": "RPT-4D5943FFFE"
+    },
+    {
+      "record_id": "R00045",
+      "type": "other",
+      "timestamp": "",
+      "summary": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca49",
+      "raw": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca49",
+      "case_id": "CASE-972EB022D633",
+      "report_id": "RPT-4D5943FFFE"
+    },
+    {
+      "record_id": "R00046",
+      "type": "other",
+      "timestamp": "",
+      "summary": "5991b7852b855",
+      "raw": "5991b7852b855",
+      "case_id": "CASE-972EB022D633",
+      "report_id": "RPT-4D5943FFFE"
+    },
+    {
+      "record_id": "R00047",
+      "type": "other",
+      "timestamp": "",
+      "summary": "VERIFIED",
+      "raw": "VERIFIED",
+      "case_id": "CASE-972EB022D633",
+      "report_id": "RPT-4D5943FFFE"
+    },
+    {
+      "record_id": "R00048",
+      "type": "other",
+      "timestamp": "",
+      "summary": "MATCH",
+      "raw": "MATCH",
+      "case_id": "CASE-972EB022D633",
+      "report_id": "RPT-4D5943FFFE"
+    },
+    {
+      "record_id": "R00049",
+      "type": "other",
+      "timestamp": "",
+      "summary": "manifest.plist MD5 8f14e45fceea167a5a36dedd4bea2543 VERIFIED",
+      "raw": "manifest.plist MD5 8f14e45fceea167a5a36dedd4bea2543 VERIFIED",
+      "case_id": "CASE-972EB022D633",
+      "report_id": "RPT-4D5943FFFE"
+    },
+    {
+      "record_id": "R00050",
+      "type": "other",
+      "timestamp": "",
+      "summary": "MATCH",
+      "raw": "MATCH",
+      "case_id": "CASE-972EB022D633",
+      "report_id": "RPT-4D5943FFFE"
+    },
+    {
+      "record_id": "R00051",
+      "type": "other",
+      "timestamp": "",
+      "summary": "Case Ref: CR-2026-0891-DF | UFDR Extraction Summary Page 1 of 2",
+      "raw": "Case Ref: CR-2026-0891-DF | UFDR Extraction Summary Page 1 of 2",
+      "case_id": "CASE-972EB022D633",
+      "report_id": "RPT-4D5943FFFE"
+    },
+    {
+      "record_id": "R00052",
+      "type": "other",
+      "timestamp": "",
+      "summary": "3. KEY COMMUNICATION ARTIFACTS (RECOVERED & DELETED)",
+      "raw": "3. KEY COMMUNICATION ARTIFACTS (RECOVERED & DELETED)",
+      "case_id": "CASE-972EB022D633",
+      "report_id": "RPT-4D5943FFFE"
+    },
+    {
+      "record_id": "R00053",
+      "type": "message",
+      "timestamp": "",
+      "summary": "The following entries represent selected relevant records ﬁltered from WhatsApp database ChatStorage.sqlite and SMS",
+      "raw": "The following entries represent selected relevant records ﬁltered from WhatsApp database ChatStorage.sqlite and SMS",
+      "case_id": "CASE-972EB022D633",
+      "report_id": "RPT-4D5943FFFE"
+    },
+    {
+      "record_id": "R00054",
+      "type": "other",
+      "timestamp": "",
+      "summary": "database sms.db. Timestamps normalized to UTC (+00:00).",
+      "raw": "database sms.db. Timestamps normalized to UTC (+00:00).",
+      "case_id": "CASE-972EB022D633",
+      "report_id": "RPT-4D5943FFFE"
+    },
+    {
+      "record_id": "R00055",
+      "type": "other",
+      "timestamp": "",
+      "summary": "Timestamp",
+      "raw": "Timestamp",
+      "case_id": "CASE-972EB022D633",
+      "report_id": "RPT-4D5943FFFE"
+    },
+    {
+      "record_id": "R00056",
+      "type": "other",
+      "timestamp": "",
+      "summary": "(UTC) App Dir Identiﬁer Message Content / Forensic Status",
+      "raw": "(UTC) App Dir Identiﬁer Message Content / Forensic Status",
+      "case_id": "CASE-972EB022D633",
+      "report_id": "RPT-4D5943FFFE"
+    },
+    {
+      "record_id": "R00057",
+      "type": "other",
+      "timestamp": "",
+      "summary": "2026-10-04",
+      "raw": "2026-10-04",
+      "case_id": "CASE-972EB022D633",
+      "report_id": "RPT-4D5943FFFE"
+    },
+    {
+      "record_id": "R00058",
+      "type": "other",
+      "timestamp": "",
+      "summary": "21:05:12",
+      "raw": "21:05:12",
+      "case_id": "CASE-972EB022D633",
+      "report_id": "RPT-4D5943FFFE"
+    },
+    {
+      "record_id": "R00059",
+      "type": "other",
+      "timestamp": "",
+      "summary": "WhatsAp",
+      "raw": "WhatsAp",
+      "case_id": "CASE-972EB022D633",
+      "report_id": "RPT-4D5943FFFE"
+    },
+    {
+      "record_id": "R00060",
+      "type": "other",
+      "timestamp": "",
+      "summary": "p",
+      "raw": "p",
+      "case_id": "CASE-972EB022D633",
+      "report_id": "RPT-4D5943FFFE"
+    },
+    {
+      "record_id": "R00061",
+      "type": "other",
+      "timestamp": "",
+      "summary": "OUTGO",
+      "raw": "OUTGO",
+      "case_id": "CASE-972EB022D633",
+      "report_id": "RPT-4D5943FFFE"
+    },
+    {
+      "record_id": "R00062",
+      "type": "other",
+      "timestamp": "",
+      "summary": "ING",
+      "raw": "ING",
+      "case_id": "CASE-972EB022D633",
+      "report_id": "RPT-4D5943FFFE"
+    },
+    {
+      "record_id": "R00063",
+      "type": "other",
+      "timestamp": "",
+      "summary": "+1 (555) 019-",
+      "raw": "+1 (555) 019-",
+      "case_id": "CASE-972EB022D633",
+      "report_id": "RPT-4D5943FFFE"
+    },
+    {
+      "record_id": "R00064",
+      "type": "other",
+      "timestamp": "",
+      "summary": "2831 Are you meeting at the site tonight?",
+      "raw": "2831 Are you meeting at the site tonight?",
+      "case_id": "CASE-972EB022D633",
+      "report_id": "RPT-4D5943FFFE"
+    },
+    {
+      "record_id": "R00065",
+      "type": "other",
+      "timestamp": "",
+      "summary": "2026-10-04",
+      "raw": "2026-10-04",
+      "case_id": "CASE-972EB022D633",
+      "report_id": "RPT-4D5943FFFE"
+    },
+    {
+      "record_id": "R00066",
+      "type": "other",
+      "timestamp": "",
+      "summary": "21:07:44",
+      "raw": "21:07:44",
+      "case_id": "CASE-972EB022D633",
+      "report_id": "RPT-4D5943FFFE"
+    },
+    {
+      "record_id": "R00067",
+      "type": "other",
+      "timestamp": "",
+      "summary": "WhatsAp",
+      "raw": "WhatsAp",
+      "case_id": "CASE-972EB022D633",
+      "report_id": "RPT-4D5943FFFE"
+    },
+    {
+      "record_id": "R00068",
+      "type": "other",
+      "timestamp": "",
+      "summary": "p",
+      "raw": "p",
+      "case_id": "CASE-972EB022D633",
+      "report_id": "RPT-4D5943FFFE"
+    },
+    {
+      "record_id": "R00069",
+      "type": "other",
+      "timestamp": "",
+      "summary": "INCOM",
+      "raw": "INCOM",
+      "case_id": "CASE-972EB022D633",
+      "report_id": "RPT-4D5943FFFE"
+    },
+    {
+      "record_id": "R00070",
+      "type": "other",
+      "timestamp": "",
+      "summary": "ING",
+      "raw": "ING",
+      "case_id": "CASE-972EB022D633",
+      "report_id": "RPT-4D5943FFFE"
+    },
+    {
+      "record_id": "R00071",
+      "type": "other",
+      "timestamp": "",
+      "summary": "+1 (555) 019-",
+      "raw": "+1 (555) 019-",
+      "case_id": "CASE-972EB022D633",
+      "report_id": "RPT-4D5943FFFE"
+    },
+    {
+      "record_id": "R00072",
+      "type": "other",
+      "timestamp": "",
+      "summary": "2831 Yes, arriving at 22:10. Bring the equipment.",
+      "raw": "2831 Yes, arriving at 22:10. Bring the equipment.",
+      "case_id": "CASE-972EB022D633",
+      "report_id": "RPT-4D5943FFFE"
+    },
+    {
+      "record_id": "R00073",
+      "type": "other",
+      "timestamp": "",
+      "summary": "2026-10-04",
+      "raw": "2026-10-04",
+      "case_id": "CASE-972EB022D633",
+      "report_id": "RPT-4D5943FFFE"
+    },
+    {
+      "record_id": "R00074",
+      "type": "other",
+      "timestamp": "",
+      "summary": "21:12:01",
+      "raw": "21:12:01",
+      "case_id": "CASE-972EB022D633",
+      "report_id": "RPT-4D5943FFFE"
+    },
+    {
+      "record_id": "R00075",
+      "type": "other",
+      "timestamp": "",
+      "summary": "WhatsAp",
+      "raw": "WhatsAp",
+      "case_id": "CASE-972EB022D633",
+      "report_id": "RPT-4D5943FFFE"
+    },
+    {
+      "record_id": "R00076",
+      "type": "other",
+      "timestamp": "",
+      "summary": "p",
+      "raw": "p",
+      "case_id": "CASE-972EB022D633",
+      "report_id": "RPT-4D5943FFFE"
+    },
+    {
+      "record_id": "R00077",
+      "type": "other",
+      "timestamp": "",
+      "summary": "OUTGO",
+      "raw": "OUTGO",
+      "case_id": "CASE-972EB022D633",
+      "report_id": "RPT-4D5943FFFE"
+    },
+    {
+      "record_id": "R00078",
+      "type": "other",
+      "timestamp": "",
+      "summary": "ING",
+      "raw": "ING",
+      "case_id": "CASE-972EB022D633",
+      "report_id": "RPT-4D5943FFFE"
+    },
+    {
+      "record_id": "R00079",
+      "type": "other",
+      "timestamp": "",
+      "summary": "+1 (555) 019-",
+      "raw": "+1 (555) 019-",
+      "case_id": "CASE-972EB022D633",
+      "report_id": "RPT-4D5943FFFE"
+    },
+    {
+      "record_id": "R00080",
+      "type": "other",
+      "timestamp": "",
+      "summary": "2831",
+      "raw": "2831",
+      "case_id": "CASE-972EB022D633",
+      "report_id": "RPT-4D5943FFFE"
+    },
+    {
+      "record_id": "R00081",
+      "type": "other",
+      "timestamp": "",
+      "summary": "DELETED Recovered from WAL database: \"I brought",
+      "raw": "DELETED Recovered from WAL database: \"I brought",
+      "case_id": "CASE-972EB022D633",
+      "report_id": "RPT-4D5943FFFE"
+    },
+    {
+      "record_id": "R00082",
+      "type": "other",
+      "timestamp": "",
+      "summary": "the package.\"",
+      "raw": "the package.\"",
+      "case_id": "CASE-972EB022D633",
+      "report_id": "RPT-4D5943FFFE"
+    },
+    {
+      "record_id": "R00083",
+      "type": "other",
+      "timestamp": "",
+      "summary": "2026-10-04",
+      "raw": "2026-10-04",
+      "case_id": "CASE-972EB022D633",
+      "report_id": "RPT-4D5943FFFE"
+    },
+    {
+      "record_id": "R00084",
+      "type": "other",
+      "timestamp": "",
+      "summary": "22:15:30 iMessage INCOM",
+      "raw": "22:15:30 iMessage INCOM",
+      "case_id": "CASE-972EB022D633",
+      "report_id": "RPT-4D5943FFFE"
+    },
+    {
+      "record_id": "R00085",
+      "type": "other",
+      "timestamp": "",
+      "summary": "ING",
+      "raw": "ING",
+      "case_id": "CASE-972EB022D633",
+      "report_id": "RPT-4D5943FFFE"
+    },
+    {
+      "record_id": "R00086",
+      "type": "other",
+      "timestamp": "",
+      "summary": "mark.r@provider.",
+      "raw": "mark.r@provider.",
+      "case_id": "CASE-972EB022D633",
+      "report_id": "RPT-4D5943FFFE"
+    },
+    {
+      "record_id": "R00087",
+      "type": "other",
+      "timestamp": "",
+      "summary": "com I am standing outside the main entrance.",
+      "raw": "com I am standing outside the main entrance.",
+      "case_id": "CASE-972EB022D633",
+      "report_id": "RPT-4D5943FFFE"
+    },
+    {
+      "record_id": "R00088",
+      "type": "other",
+      "timestamp": "",
+      "summary": "2026-10-04",
+      "raw": "2026-10-04",
+      "case_id": "CASE-972EB022D633",
+      "report_id": "RPT-4D5943FFFE"
+    },
+    {
+      "record_id": "R00089",
+      "type": "other",
+      "timestamp": "",
+      "summary": "22:46:02 SMS",
+      "raw": "22:46:02 SMS",
+      "case_id": "CASE-972EB022D633",
+      "report_id": "RPT-4D5943FFFE"
+    },
+    {
+      "record_id": "R00090",
+      "type": "other",
+      "timestamp": "",
+      "summary": "OUTGO",
+      "raw": "OUTGO",
+      "case_id": "CASE-972EB022D633",
+      "report_id": "RPT-4D5943FFFE"
+    },
+    {
+      "record_id": "R00091",
+      "type": "other",
+      "timestamp": "",
+      "summary": "ING",
+      "raw": "ING",
+      "case_id": "CASE-972EB022D633",
+      "report_id": "RPT-4D5943FFFE"
+    },
+    {
+      "record_id": "R00092",
+      "type": "other",
+      "timestamp": "",
+      "summary": "+1 (555) 019-",
+      "raw": "+1 (555) 019-",
+      "case_id": "CASE-972EB022D633",
+      "report_id": "RPT-4D5943FFFE"
+    },
+    {
+      "record_id": "R00093",
+      "type": "contact",
+      "timestamp": "",
+      "summary": "2831 Photo sent. Check your email.",
+      "raw": "2831 Photo sent. Check your email.",
+      "case_id": "CASE-972EB022D633",
+      "report_id": "RPT-4D5943FFFE"
+    },
+    {
+      "record_id": "R00094",
+      "type": "location",
+      "timestamp": "",
+      "summary": "4. EXTRACTED GEOLOCATION & MEDIA TIMELINE",
+      "raw": "4. EXTRACTED GEOLOCATION & MEDIA TIMELINE",
+      "case_id": "CASE-972EB022D633",
+      "report_id": "RPT-4D5943FFFE"
+    },
+    {
+      "record_id": "R00095",
+      "type": "location",
+      "timestamp": "",
+      "summary": "2026-10-04 22:14:03 Location Fix (Apple Maps Cache): Lat: 37.7749° N, Lon: -122.4194° W (Accuracy:",
+      "raw": "2026-10-04 22:14:03 Location Fix (Apple Maps Cache): Lat: 37.7749° N, Lon: -122.4194° W (Accuracy:",
+      "case_id": "CASE-972EB022D633",
+      "report_id": "RPT-4D5943FFFE"
+    },
+    {
+      "record_id": "R00096",
+      "type": "other",
+      "timestamp": "",
+      "summary": "5.2m)",
+      "raw": "5.2m)",
+      "case_id": "CASE-972EB022D633",
+      "report_id": "RPT-4D5943FFFE"
+    },
+    {
+      "record_id": "R00097",
+      "type": "other",
+      "timestamp": "",
+      "summary": "Reverse Geocode: 700 Market St, San Francisco, CA",
+      "raw": "Reverse Geocode: 700 Market St, San Francisco, CA",
+      "case_id": "CASE-972EB022D633",
+      "report_id": "RPT-4D5943FFFE"
+    },
+    {
+      "record_id": "R00098",
+      "type": "media",
+      "timestamp": "",
+      "summary": "2026-10-04 22:45:18 Media Capture (EXIF Metadata): File IMG_4021.JPG (Size: 3,412,044 bytes)",
+      "raw": "2026-10-04 22:45:18 Media Capture (EXIF Metadata): File IMG_4021.JPG (Size: 3,412,044 bytes)",
+      "case_id": "CASE-972EB022D633",
+      "report_id": "RPT-4D5943FFFE"
+    },
+    {
+      "record_id": "R00099",
+      "type": "other",
+      "timestamp": "",
+      "summary": "Embedded Coordinates: 37.7751° N, -122.4189° W | Device Lens: iPhone 14 Pro Back Main",
+      "raw": "Embedded Coordinates: 37.7751° N, -122.4189° W | Device Lens: iPhone 14 Pro Back Main",
+      "case_id": "CASE-972EB022D633",
+      "report_id": "RPT-4D5943FFFE"
+    },
+    {
+      "record_id": "R00100",
+      "type": "other",
+      "timestamp": "",
+      "summary": "Camera",
+      "raw": "Camera",
+      "case_id": "CASE-972EB022D633",
+      "report_id": "RPT-4D5943FFFE"
+    },
+    {
+      "record_id": "R00101",
+      "type": "other",
+      "timestamp": "",
+      "summary": "2026-10-04 23:02:11 Cell Tower Handover Log: Cell Tower ID LAC 0x412A / Cell 0x89F1",
+      "raw": "2026-10-04 23:02:11 Cell Tower Handover Log: Cell Tower ID LAC 0x412A / Cell 0x89F1",
+      "case_id": "CASE-972EB022D633",
+      "report_id": "RPT-4D5943FFFE"
+    },
+    {
+      "record_id": "R00102",
+      "type": "other",
+      "timestamp": "",
+      "summary": "Carrier: Verizon Wireless (MCC 311 / MNC 480)",
+      "raw": "Carrier: Verizon Wireless (MCC 311 / MNC 480)",
+      "case_id": "CASE-972EB022D633",
+      "report_id": "RPT-4D5943FFFE"
+    },
+    {
+      "record_id": "R00103",
+      "type": "other",
+      "timestamp": "",
+      "summary": "5. TECHNICAL NOTES & EXAMINER REMARKS",
+      "raw": "5. TECHNICAL NOTES & EXAMINER REMARKS",
+      "case_id": "CASE-972EB022D633",
+      "report_id": "RPT-4D5943FFFE"
+    },
+    {
+      "record_id": "R00104",
+      "type": "other",
+      "timestamp": "",
+      "summary": "Data Integrity: Pre- and post-analysis SHA-256 hash checks conﬁrmed no modiﬁcation to the original `.ufdr` container",
+      "raw": "Data Integrity: Pre- and post-analysis SHA-256 hash checks conﬁrmed no modiﬁcation to the original `.ufdr` container",
+      "case_id": "CASE-972EB022D633",
+      "report_id": "RPT-4D5943FFFE"
+    },
+    {
+      "record_id": "R00105",
+      "type": "other",
+      "timestamp": "",
+      "summary": "during parsing.",
+      "raw": "during parsing.",
+      "case_id": "CASE-972EB022D633",
+      "report_id": "RPT-4D5943FFFE"
+    },
+    {
+      "record_id": "R00106",
+      "type": "other",
+      "timestamp": "",
+      "summary": "Encrypted Artifacts: Signal Messenger databases (signal.sqlite) remained fully encrypted due to missing dynamic",
+      "raw": "Encrypted Artifacts: Signal Messenger databases (signal.sqlite) remained fully encrypted due to missing dynamic",
+      "case_id": "CASE-972EB022D633",
+      "report_id": "RPT-4D5943FFFE"
+    },
+    {
+      "record_id": "R00107",
+      "type": "other",
+      "timestamp": "",
+      "summary": "runtime keys at extraction time.",
+      "raw": "runtime keys at extraction time.",
+      "case_id": "CASE-972EB022D633",
+      "report_id": "RPT-4D5943FFFE"
+    },
+    {
+      "record_id": "R00108",
+      "type": "other",
+      "timestamp": "",
+      "summary": "Time Synchronization: System hardware clock drift was evaluated at +1.2 seconds relative to UTC atomic standard.",
+      "raw": "Time Synchronization: System hardware clock drift was evaluated at +1.2 seconds relative to UTC atomic standard.",
+      "case_id": "CASE-972EB022D633",
+      "report_id": "RPT-4D5943FFFE"
+    },
+    {
+      "record_id": "R00109",
+      "type": "other",
+      "timestamp": "",
+      "summary": "6. FORMAL ATTESTATION & SIGNATURES",
+      "raw": "6. FORMAL ATTESTATION & SIGNATURES",
+      "case_id": "CASE-972EB022D633",
+      "report_id": "RPT-4D5943FFFE"
+    },
+    {
+      "record_id": "R00110",
+      "type": "other",
+      "timestamp": "",
+      "summary": "Forensic Examiner: Det. A. Vance, CCME, CCE",
+      "raw": "Forensic Examiner: Det. A. Vance, CCME, CCE",
+      "case_id": "CASE-972EB022D633",
+      "report_id": "RPT-4D5943FFFE"
+    },
+    {
+      "record_id": "R00111",
+      "type": "other",
+      "timestamp": "",
+      "summary": "Signature: A. Vance #4409",
+      "raw": "Signature: A. Vance #4409",
+      "case_id": "CASE-972EB022D633",
+      "report_id": "RPT-4D5943FFFE"
+    },
+    {
+      "record_id": "R00112",
+      "type": "other",
+      "timestamp": "",
+      "summary": "Date: October 7, 2026",
+      "raw": "Date: October 7, 2026",
+      "case_id": "CASE-972EB022D633",
+      "report_id": "RPT-4D5943FFFE"
+    },
+    {
+      "record_id": "R00113",
+      "type": "other",
+      "timestamp": "",
+      "summary": "Technical Peer Reviewer: S. Jenkins, EnCE",
+      "raw": "Technical Peer Reviewer: S. Jenkins, EnCE",
+      "case_id": "CASE-972EB022D633",
+      "report_id": "RPT-4D5943FFFE"
+    },
+    {
+      "record_id": "R00114",
+      "type": "other",
+      "timestamp": "",
+      "summary": "Signature: S. Jenkins #1024",
+      "raw": "Signature: S. Jenkins #1024",
+      "case_id": "CASE-972EB022D633",
+      "report_id": "RPT-4D5943FFFE"
+    },
+    {
+      "record_id": "R00115",
+      "type": "other",
+      "timestamp": "",
+      "summary": "Date: October 7, 2026",
+      "raw": "Date: October 7, 2026",
+      "case_id": "CASE-972EB022D633",
+      "report_id": "RPT-4D5943FFFE"
+    },
+    {
+      "record_id": "R00116",
+      "type": "other",
+      "timestamp": "",
+      "summary": "Case Ref: CR-2026-0891-DF | UFDR Extraction Summary Page 2 of 2",
+      "raw": "Case Ref: CR-2026-0891-DF | UFDR Extraction Summary Page 2 of 2",
+      "case_id": "CASE-972EB022D633",
+      "report_id": "RPT-4D5943FFFE"
+    }
+  ],
+  "audit": [
+    {
+      "id": "8073e800-71b1-4354-91e6-cfdf465f9b29",
+      "case_id": "CASE-972EB022D633",
+      "action": "ASSISTANT_QUERY",
+      "details": "hi",
+      "timestamp": "2026-10-07T20:49:23",
+      "user": "USR-C48F02F52850"
+    },
+    {
+      "id": "7b85fbfc-e6fd-4581-84cd-114966f6b7c3",
+      "case_id": "CASE-972EB022D633",
+      "action": "REPORT_UPLOADED",
+      "details": "RPT-4D5943FFFE",
+      "timestamp": "2026-10-07T20:48:59",
+      "user": "USR-C48F02F52850"
+    },
+    {
+      "id": "760623da-d33e-4df8-92da-5a39fa8335c1",
+      "case_id": "CASE-972EB022D633",
+      "action": "CASE_CREATED",
+      "details": "data invest",
+      "timestamp": "2026-10-07T20:45:28",
+      "user": "USR-C48F02F52850"
+    }
+  ]
+}
